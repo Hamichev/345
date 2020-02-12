@@ -4,3 +4,5 @@
 4. I studied C++ to work on the arduino platform, JavaScript.
 5. My Code(last game): https://yadi.sk/d/mHQmnNSyVnO7wg
 6. Creating games using MyForm in C++ and JavaScript(HTML and CSS studied).
+7. I study at SSTU.
+8. I don't know English very well,because I used to study German.(I don't know him well either:) )
